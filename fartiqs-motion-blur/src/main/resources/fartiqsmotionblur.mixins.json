@@ -1,0 +1,6 @@
+{
+  "required": true,
+  "package": "com.fartiqs.motionblur.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": ["GameRendererMixin"]
+}
